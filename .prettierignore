@@ -1,0 +1,5 @@
+/.react-router
+/build
+/out
+/public
+/package-lock.json
